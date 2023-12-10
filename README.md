@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Olá,%20sou%20o%20&fontAlign=42&fontSize=25&desc=Pedro%20França&descAlign=56&descAlignY=50&fontSiza=35&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Olá,%20sou%20o%20&fontAlign=40&fontSize=25&desc=Pedro%20França&descAlign=56&descAlignY=50&fontSize=35&theme=radical)
 
 - 🏛️ Engenheiro Civil amante de tecnologia ❤️
 - 👨‍🎓 Estudando Desenvolvimento Web Full Stack na TRYBE! 🚀
